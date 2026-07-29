@@ -193,7 +193,7 @@ If you've found an issue or have an idea for a new feature, feel free to open an
 
 # 👨‍💻 Developer
 
-## Alan Grant
+## Bluey Barks
 
 Blue Uploader Compressor is an independent project designed, programmed and maintained entirely by **Alan Grant**.
 
