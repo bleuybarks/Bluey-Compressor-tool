@@ -219,6 +219,6 @@ If this project has helped you, consider:
 
 ## Thank you for using Blue Uploader Compressor!
 
-**Made with ❤️ by Alan Grant**
+**Made with ❤️ by Bluey Barks**
 
 </div>
